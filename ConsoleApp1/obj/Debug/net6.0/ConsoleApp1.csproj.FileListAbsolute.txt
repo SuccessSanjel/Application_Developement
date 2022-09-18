@@ -1,0 +1,15 @@
+D:\THIRD YEAR\1st Semester\Application Developement\C Sharp\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\THIRD YEAR\1st Semester\Application Developement\C Sharp\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\THIRD YEAR\1st Semester\Application Developement\C Sharp\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\THIRD YEAR\1st Semester\Application Developement\C Sharp\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\THIRD YEAR\1st Semester\Application Developement\C Sharp\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\THIRD YEAR\1st Semester\Application Developement\C Sharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\THIRD YEAR\1st Semester\Application Developement\C Sharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\THIRD YEAR\1st Semester\Application Developement\C Sharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\THIRD YEAR\1st Semester\Application Developement\C Sharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\THIRD YEAR\1st Semester\Application Developement\C Sharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\THIRD YEAR\1st Semester\Application Developement\C Sharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\THIRD YEAR\1st Semester\Application Developement\C Sharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\THIRD YEAR\1st Semester\Application Developement\C Sharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\THIRD YEAR\1st Semester\Application Developement\C Sharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\THIRD YEAR\1st Semester\Application Developement\C Sharp\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
